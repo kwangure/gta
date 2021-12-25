@@ -13,7 +13,7 @@
   "dependencies": {
     "@kwangure/strawberry": "^0.31.1",
     "just-typeof": "^3.0.1",
-    "patootie": "^0.1.1"
+    "patootie": "^0.1.2"
   },
   "type": "module",
   "devDependencies": {

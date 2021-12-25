@@ -11,6 +11,7 @@ function resolve(pathname) {
 export default {
     patootie: {
         manifest: {
+            version: 2,
             permissions: [
                 "webRequest",
             ],
